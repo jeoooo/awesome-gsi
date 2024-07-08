@@ -36,7 +36,6 @@ Game State Integration is a powerful technique that allows games to provide real
   - [Riot Developer Portal](https://developer.riotgames.com/) - Riot Games Official Documentation on their APIs
   - [Game State Integration Intro](https://auo.nu/posts/game-state-integration-intro/) - An Overview of Game State Integration
   - [Live data integration in esports](https://blog.geertverhoeff.com/2021/02/22/live-data-integration-in-esports/) - Article about Game State Integration
-  -  
 
 
 # License
@@ -45,7 +44,7 @@ Game State Integration is a powerful technique that allows games to provide real
 
 # Contributing
 ---
-Contributing Guidelines here
+Contributing Guidelines [here](https://github.com/jeoooo/awesome-gsi/blob/main/CONTRIBUTING.md)
 
 
 
