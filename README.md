@@ -1,6 +1,15 @@
-# Awesome GSI
+# Awesome GSI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 An opinionated list of awesome Game State Integration Projects and Resources.
+
+# Contents
+---
+- [Awesome GSI ](#awesome-gsi-)
+- [Contents](#contents)
+- [What is Game State Integration?](#what-is-game-state-integration)
+- [Projects](#projects)
+- [License](#license)
+- [Contributing](#contributing)
 
 # What is Game State Integration?
 ---
@@ -8,9 +17,10 @@ Game State Integration (GSI) is a powerful feature that enables the sending of r
 
 Game State Integration is a powerful technique that allows games to provide real-time data to external applications, creating opportunities for enhanced user experiences, improved analytics, and innovative gameplay features. 
 
-# Contents
+
+
+# Projects
 ---
-- Projects
   - [xzion/dota2-gsi](https://github.com/xzion/dota2-gsi) - Dota 2 Game State Integration server for Node.JS
   - [antonpup/Dota2GSI](https://github.com/antonpup/Dota2GSI) - A C# library to interface with the Game State Integration found in Dota 2.
   - [MrBean355/dota2-gsi](https://github.com/MrBean355/dota2-gsi) - JVM library (Kotlin) for receiving game state updates from Dota 2.
@@ -21,7 +31,7 @@ Game State Integration is a powerful technique that allows games to provide real
 
 
 - Articles / Official Documentation
-  - [Counter-Strike: Global Offensive Game State Integration](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration) - CS:GO Documentation for CS:GO GSI
+  - [Counter-Strike: Global Offensive Game State Integration](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration) - Official Documentation for CS:GO
   - [Valve CFG Documentation](https://developer.valvesoftware.com/wiki/CFG) - Valve's Official Documentation on .cfg files
   - [Riot Developer Portal](https://developer.riotgames.com/) - Riot Games Official Documentation on their APIs
   - [Game State Integration Intro](https://auo.nu/posts/game-state-integration-intro/) - An Overview of Game State Integration
@@ -31,7 +41,7 @@ Game State Integration is a powerful technique that allows games to provide real
 
 # License
 ---
-License here
+[CC0-1.0 license](https://github.com/jeoooo/awesome-gsi/blob/main/LICENSE)
 
 # Contributing
 ---
