@@ -21,11 +21,15 @@ Game State Integration is a powerful technique that allows games to provide real
 
 # Projects
 ---
+This section includes libraries and other projects made by developers that utilize Game State Integration.
+
   - [xzion/dota2-gsi](https://github.com/xzion/dota2-gsi) - Dota 2 Game State Integration server for Node.JS
   - [antonpup/Dota2GSI](https://github.com/antonpup/Dota2GSI) - A C# library to interface with the Game State Integration found in Dota 2.
   - [MrBean355/dota2-gsi](https://github.com/MrBean355/dota2-gsi) - JVM library (Kotlin) for receiving game state updates from Dota 2.
   - [tomasfarias/dota-gsi](https://github.com/tomasfarias/dota-gsi) - A Rust library for Dota 2's Game State Integration.
   - [RCVolus/lol-pick-ban-ui](https://github.com/RCVolus/lol-pick-ban-ui) - Web-Based UI to display the league of legends champ select in esports tournaments.
+  - [jeoooo/dota-gsi-obs-overlay](https://github.com/jeoooo/dota-gsi-obs-overlay) - under development - simple dota 2 obs overlay (using gamestate integration)
+  - [qqquiu/dota2-webdraft](https://github.com/qqquiu/dota2-webdraft) - Dota 2 web-rendered picks and bans screen using dota2-gsi
 
 
 
